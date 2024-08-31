@@ -1,0 +1,12 @@
+Scott:10000
+Scott:9000
+Josh:8240
+Scott:8000
+Scott:7000
+Scott:6000
+Jack:5860
+Scott:5000
+Scott:4000
+Scott:3000
+Scott:2000
+Scott:1000
